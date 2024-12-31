@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ergeapebro
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning web programming
+- 🌱 I’m currently learning data scientist, data analyst, AI, ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

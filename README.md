@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ergeapebro
+- 👋 Hi, I’m Rizal Gibran
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning data scientist, data analyst, AI, ML
 - 📫 How to reach me, please visit my [Linkedin](https://www.linkedin.com/in/rizal-gibran-aldrin-pratama/) account or <gibran.aldrin.p@gmail.com>
